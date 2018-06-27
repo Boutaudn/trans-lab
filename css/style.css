@@ -1,1 +1,35 @@
 /* YeyeYeee código aquí */
+/* NAVBAR */
+.navBar {
+  display: none;
+  background-color:#3E3F41; 
+  /* background-color: #DDDEE0; */
+}
+
+.btn-warning {
+  color: aliceblue;
+  background-color: #F5A800;
+  padding-bottom: 5%;
+}
+
+.logo {
+  padding: 5%;
+  text-align: center;
+  height: 60%;
+  width: 60%;
+  
+}
+ .central {
+  text-align: center;
+ }
+ h1 {
+  color: #F5A800;
+ }
+ .login{
+   background-color: #3E3F41;
+   color: white;
+   padding: 20% 10%;
+ }
+ .logoImg {
+   padding: 10%;
+ }
